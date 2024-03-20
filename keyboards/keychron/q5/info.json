@@ -1,7 +1,7 @@
 {
-    "manufacturer": "Keychron",
-    "keyboard_name": "Keychron Q5",
-    "maintainer": "lalalademaxiya1",
+    "manufacturer": "Fabian Sauter",
+    "keyboard_name": "Fabian Sauter - Keychron Q5",
+    "maintainer": "Fabian Sauter",
     "bootloader": "stm32-dfu",
     "diode_direction": "ROW2COL",
     "dip_switch": {
